@@ -1,7 +1,7 @@
 import React from "react";
 import AccountContainer from "./AccountContainer";
 
-function App() {
+function App() { 
   return (
     <div className="ui raised segment">
       <div className="ui segment violet inverted">
